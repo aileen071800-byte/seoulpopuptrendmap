@@ -1,0 +1,22 @@
+﻿year,data_type,is_verified,category,share_pct,count_approx,total_nationwide,estimation_method,source
+2024,Actual,YES,IP · Character,21,301,1431,Popga 2024 전수 데이터 (실제값),Popga (팝가) 2024 연간 전수조사
+2024,Actual,YES,Fashion,19,272,1431,Popga 2024 전수 데이터 (실제값),Popga (팝가) 2024 연간 전수조사
+2024,Actual,YES,Beauty,11,157,1431,Popga 2024 전수 데이터 (실제값),Popga (팝가) 2024 연간 전수조사
+2024,Actual,YES,F&B,10,143,1431,Popga 2024 전수 데이터 (실제값),Popga (팝가) 2024 연간 전수조사
+2024,Actual,YES,Art · Exhibition,8,114,1431,Popga 2024 전수 데이터 (실제값),Popga (팝가) 2024 연간 전수조사
+2024,Actual,YES,Lifestyle,7,100,1431,Popga 2024 전수 데이터 (실제값),Popga (팝가) 2024 연간 전수조사
+2024,Actual,YES,Other,24,343,1431,Popga 2024 전수 데이터 (실제값),Popga (팝가) 2024 연간 전수조사
+2025,Estimated,NO — ESTIMATED,IP · Character,23,402,1750,"추정치 — 2024 트렌드 기반 + 전년 대비 약 22% 성장률 반영 (Popga, DealSeoul 분석)",Popga + DealSeoul 트렌드 리포트 기반 추정 / Jooeun Lim field research 2025
+2025,Estimated,NO — ESTIMATED,Fashion,18,315,1750,"추정치 — 2024 트렌드 기반 + 전년 대비 약 22% 성장률 반영 (Popga, DealSeoul 분석)",Popga + DealSeoul 트렌드 리포트 기반 추정 / Jooeun Lim field research 2025
+2025,Estimated,NO — ESTIMATED,Beauty,13,228,1750,"추정치 — 2024 트렌드 기반 + 전년 대비 약 22% 성장률 반영 (Popga, DealSeoul 분석)",Popga + DealSeoul 트렌드 리포트 기반 추정 / Jooeun Lim field research 2025
+2025,Estimated,NO — ESTIMATED,F&B,10,175,1750,"추정치 — 2024 트렌드 기반 + 전년 대비 약 22% 성장률 반영 (Popga, DealSeoul 분석)",Popga + DealSeoul 트렌드 리포트 기반 추정 / Jooeun Lim field research 2025
+2025,Estimated,NO — ESTIMATED,Art · Exhibition,7,122,1750,"추정치 — 2024 트렌드 기반 + 전년 대비 약 22% 성장률 반영 (Popga, DealSeoul 분석)",Popga + DealSeoul 트렌드 리포트 기반 추정 / Jooeun Lim field research 2025
+2025,Estimated,NO — ESTIMATED,Lifestyle,7,122,1750,"추정치 — 2024 트렌드 기반 + 전년 대비 약 22% 성장률 반영 (Popga, DealSeoul 분석)",Popga + DealSeoul 트렌드 리포트 기반 추정 / Jooeun Lim field research 2025
+2025,Estimated,NO — ESTIMATED,Other,22,385,1750,"추정치 — 2024 트렌드 기반 + 전년 대비 약 22% 성장률 반영 (Popga, DealSeoul 분석)",Popga + DealSeoul 트렌드 리포트 기반 추정 / Jooeun Lim field research 2025
+2026,Estimated,NO — ESTIMATED,IP · Character,26,546,2100,추정치 — IP 카테고리 급증·뷰티 확장 트렌드를 2025 실측 방향성에서 외삽,2025 트렌드 외삽 추정 / Jooeun Lim field research 2026
+2026,Estimated,NO — ESTIMATED,Fashion,17,357,2100,추정치 — IP 카테고리 급증·뷰티 확장 트렌드를 2025 실측 방향성에서 외삽,2025 트렌드 외삽 추정 / Jooeun Lim field research 2026
+2026,Estimated,NO — ESTIMATED,Beauty,14,294,2100,추정치 — IP 카테고리 급증·뷰티 확장 트렌드를 2025 실측 방향성에서 외삽,2025 트렌드 외삽 추정 / Jooeun Lim field research 2026
+2026,Estimated,NO — ESTIMATED,F&B,10,210,2100,추정치 — IP 카테고리 급증·뷰티 확장 트렌드를 2025 실측 방향성에서 외삽,2025 트렌드 외삽 추정 / Jooeun Lim field research 2026
+2026,Estimated,NO — ESTIMATED,Art · Exhibition,6,126,2100,추정치 — IP 카테고리 급증·뷰티 확장 트렌드를 2025 실측 방향성에서 외삽,2025 트렌드 외삽 추정 / Jooeun Lim field research 2026
+2026,Estimated,NO — ESTIMATED,Lifestyle,7,147,2100,추정치 — IP 카테고리 급증·뷰티 확장 트렌드를 2025 실측 방향성에서 외삽,2025 트렌드 외삽 추정 / Jooeun Lim field research 2026
+2026,Estimated,NO — ESTIMATED,Other,20,420,2100,추정치 — IP 카테고리 급증·뷰티 확장 트렌드를 2025 실측 방향성에서 외삽,2025 트렌드 외삽 추정 / Jooeun Lim field research 2026

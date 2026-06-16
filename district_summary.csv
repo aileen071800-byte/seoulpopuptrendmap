@@ -1,0 +1,15 @@
+﻿district_no,district,district_subtitle,district_key,year,popup_count_in_dataset,color_hex
+01,Seongsu-dong,Seoul's #1 Pop-up District · 성수동,seongsu,2024,2,#ff6b9d
+01,Seongsu-dong,Seoul's #1 Pop-up District · 성수동,seongsu,2025,9,#ff6b9d
+01,Seongsu-dong,Seoul's #1 Pop-up District · 성수동,seongsu,2026,21,#ff6b9d
+02,Hannam-dong,Premium Lifestyle Belt · 한남동,hannam,2024,1,#00e5cc
+02,Hannam-dong,Premium Lifestyle Belt · 한남동,hannam,2025,7,#00e5cc
+02,Hannam-dong,Premium Lifestyle Belt · 한남동,hannam,2026,3,#00e5cc
+03,Hongdae,University Culture · 홍대,hongdae,2024,2,#a78bfa
+03,Hongdae,University Culture · 홍대,hongdae,2025,4,#a78bfa
+03,Hongdae,University Culture · 홍대,hongdae,2026,4,#a78bfa
+04,Gangnam · The Hyundai,Retail Power Zone · 강남 · 여의도,gangnam,2024,4,#ffd166
+04,Gangnam · The Hyundai,Retail Power Zone · 강남 · 여의도,gangnam,2025,4,#ffd166
+04,Gangnam · The Hyundai,Retail Power Zone · 강남 · 여의도,gangnam,2026,5,#ffd166
+05,Other Areas,Jamsil · Yongsan · DDP · Myeongdong,others,2025,5,#ff9a3c
+05,Other Areas,Jamsil · Yongsan · DDP · Myeongdong,others,2026,7,#ff9a3c
